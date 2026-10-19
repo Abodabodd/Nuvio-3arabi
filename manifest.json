@@ -1,0 +1,28 @@
+{
+  "name": "3arabi-عربي",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "cinemana",
+      "name": "cinemana",
+      "description": "فقط في  العراق يعمل",
+      "version": "1.0.0",
+      "author": "abodabodd",
+      "supportedTypes": [
+        "movie",
+        "tv",
+        "anime"
+      ],
+      "filename": "providers/cinemana.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "mkv"
+      ],
+      "logo": "",
+      "contentLanguage": [
+        "ar"
+      ]
+    }
+  ]
+}
